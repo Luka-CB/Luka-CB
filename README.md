@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm luka</h1>
-<h3 align="center">A passionate full-atack developer. Started as a hobby but after completing first project, quickly realised that writing applications is what i wanted to do. I enjoy coding, more challenging the better, also enjoy learning new technologies, currently learning "Django" and it's going really nice. In the future i'm planning to learn mobile development.</h3>
+<h3 align="center">A passionate full-stack developer. Started as a hobby but after completing first project, quickly realised that writing applications is what i wanted to do. I enjoy coding, more challenging the better, also enjoy learning new technologies, currently learning "Django" and it's going really nice. In the future i'm planning to learn mobile development.</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-rosy-phi.vercel.app/](https://my-portfolio-rosy-phi.vercel.app/)
 
