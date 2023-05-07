@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm luka</h1>
-<h3 align="center">A passionate full-stack developer. Started as a hobby but after completing first project, quickly realised that writing applications is what i wanted to do. I enjoy coding, more challenging the better, also enjoy learning new technologies, currently learning "Django" and it's going really nice. In the future i'm planning to learn mobile development.</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm a passionate full-stack developer who loves creating web applications from scratch. I started coding as a hobby, but after completing my first project, I realized that this is what I want to do for a living. I enjoy solving problems, learning new technologies, and building beautiful and functional websites. </h3>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-rosy-phi.vercel.app/](https://my-portfolio-rosy-phi.vercel.app/)
+<b>Some of the technologies I use are:</b>
+- HTML/CSS/JavaScript
+- React.js
+- Next.js
+- Vue.js
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+- Prisma
 
-- 📫 How to reach me **lukaaslamazashvili20@gmail.com**
+<p>I'm always eager to learn new things and improve my skills. Feel free to check out my projects and connect with me on GitHub.</p>
 
-<p align="left">
-</p>
+- 👨‍💻 Some of my projects are available at [https://my-portfolio-rosy-phi.vercel.app/](https://my-portfolio-rosy-phi.vercel.app/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 📫 Email **lukaaslamazashvili20@gmail.com**
+
