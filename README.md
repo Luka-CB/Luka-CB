@@ -15,7 +15,7 @@
 
 <p>I'm always eager to learn new things and improve my skills. Feel free to check out my projects and connect with me on GitHub.</p>
 
-- 👨‍💻 Some of my projects are available at [https://my-portfolio-rosy-phi.vercel.app/](https://my-portfolio-rosy-phi.vercel.app/)
+- 👨‍💻 Some of my projects are available at [This Link](https://portfolio-gamma-six-63.vercel.app/))
 
 - 📫 Email **lukaaslamazashvili20@gmail.com**
 
