@@ -2,12 +2,13 @@
 <h3 align="center">I'm a passionate full-stack developer who loves creating web applications from scratch. I started coding as a hobby, but after completing my first project, I realized that this is what I want to do for a living. I enjoy solving problems, learning new technologies, and building beautiful and functional websites. </h3>
 
 <b>Some of the technologies I use are:</b>
-- HTML/CSS/JavaScript
+- HTML/CSS/JavaScript/Typescript
 - React.js
 - Next.js
 - Vue.js
 - Node.js
 - Express
+- Nest.js
 - MongoDB
 - PostgreSQL
 - Prisma
