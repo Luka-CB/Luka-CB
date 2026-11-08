@@ -15,7 +15,8 @@
 
 <p>I'm always eager to learn new things and improve my skills. Feel free to check out my projects and connect with me on GitHub.</p>
 
-- 👨‍💻 Some of my projects are available [HERE](https://portfolio-rho-seven-66.vercel.app/)
+- 👨‍💻 Some of my projects are available [HERE]
+- (https://portfolio-ruby-tau-57.vercel.app/)
 
 - 📫 Email **lukaaslamazashvili20@gmail.com**
 
